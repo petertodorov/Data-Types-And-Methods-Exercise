@@ -1,6 +1,0 @@
-C:\Users\mariana\Documents\GitHub\Data-Types-And-Methods-Exercise\Exercise5BooleanVariable\Exercise5BooleanVariable\bin\Debug\Exercise5BooleanVariable.exe.config
-C:\Users\mariana\Documents\GitHub\Data-Types-And-Methods-Exercise\Exercise5BooleanVariable\Exercise5BooleanVariable\bin\Debug\Exercise5BooleanVariable.exe
-C:\Users\mariana\Documents\GitHub\Data-Types-And-Methods-Exercise\Exercise5BooleanVariable\Exercise5BooleanVariable\bin\Debug\Exercise5BooleanVariable.pdb
-C:\Users\mariana\Documents\GitHub\Data-Types-And-Methods-Exercise\Exercise5BooleanVariable\Exercise5BooleanVariable\obj\Debug\Exercise5BooleanVariable.csprojResolveAssemblyReference.cache
-C:\Users\mariana\Documents\GitHub\Data-Types-And-Methods-Exercise\Exercise5BooleanVariable\Exercise5BooleanVariable\obj\Debug\Exercise5BooleanVariable.exe
-C:\Users\mariana\Documents\GitHub\Data-Types-And-Methods-Exercise\Exercise5BooleanVariable\Exercise5BooleanVariable\obj\Debug\Exercise5BooleanVariable.pdb
