@@ -8,11 +8,10 @@ class Exercise6StringsAndObjects
     static void Main(string[] args)
     {
         string firstWord = "Hello";
-        string secondWord= "World";
+        string secondWord = "World";
         object sentence = firstWord + " " + secondWord;
         string casted = (string)sentence;
         Console.WriteLine(casted);
-
     }
 }
 
