@@ -19,7 +19,7 @@ class Exercise10CenturiesToNanoseconds
         long seconds =(long) Math.Floor(minutes * 60);
         long miliseconds = (long)(seconds * 1000);
         long microseconds = (long)(miliseconds * 1000);
-        decimal nanoseconds = (microseconds * 1000-100);
+        decimal nanoseconds = (microseconds * 1000M);
 
         Console.WriteLine($"{century} centuries = {year} years = {days} days = {hours} hours = {minutes} minutes = {seconds} seconds = {miliseconds} milliseconds = {microseconds} microseconds = {nanoseconds} nanoseconds");
        
